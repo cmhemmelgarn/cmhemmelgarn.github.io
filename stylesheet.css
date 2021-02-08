@@ -1,0 +1,46 @@
+head {
+    background-color: #A9BCD0;
+}
+body{
+    /*border-style: double;*/
+    background-color: #58A4B0;
+}
+section {
+    /*float: left;*/
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    color: #F4D58D;
+    background-color: #294C60;
+    font-size: x-large;
+}
+h2 {
+    text-align: center;
+    color: #F4D58D;
+    font-size: large;
+    background-color: #294C60;
+    
+}
+p {
+    text-align: center;
+    color: #001B2E;
+    font-size: 15;
+    font-weight: 700;
+}
+/*.ziti-pic {
+    border-radius: 10px;
+    border-style: double;
+    border-color: #001B2E;
+    width: 25%;
+    float:left;
+}*/
+.pictures {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border-style: double;
+    border-color: #001B2E;
+    width: 25%;
+}
